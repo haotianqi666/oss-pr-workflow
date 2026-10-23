@@ -1,6 +1,6 @@
 # OSS PR Workflow
 
-通用高质量开源 PR 工作流，一份面向支持 Agent Skills 的 AI 工具的中文 skill，不限定 Codex。OSS 是 Open Source Software（开源软件）的缩写。
+通用高质量开源 PR 工作流，一份面向支持 Agent Skills 的 AI 工具的中文 skill。
 
 用于在不同开源项目中发现、验证和修复有实际价值的问题，准备 issue 和 PR，并跟进评审。目标是可信的贡献，不是 PR 数量或修改行数。
 
