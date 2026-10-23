@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用高质量开源 PR 工作流"
+  short_description: "主动发现并验证开源项目的真实问题，完成查重、修复和测试，最终由本人提交"
+  default_prompt: "使用 $oss-pr-workflow，确认目标仓库及贡献规范，简短核对已有记录后以主动审查真实使用流程为主、尽量优先后端；核验价值、查重并先红后绿测试，同题已有 issue 就复用，无对应报告才准备新 issue 和 PR，最终创建及 Ready for review 都由我自己点击。"
